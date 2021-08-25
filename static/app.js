@@ -51,7 +51,7 @@
 
 		// Apply the group bar mode to the layout
 		var barlayout = {
-			title: `<b>Top 10 OTUs found in selected Test Subject ID No<b>`,
+			title: `<b>Top 10 OTUs found in Test Subject ID No<b>`,
 			xaxis: { title: "Sample Value"},
 			yaxis: { title: "OTU ID"},
 			autosize: false,
